@@ -2,7 +2,7 @@
 
 phpgc is the PHP wrapper class which provides a flexible way to build chart. phpgc is using Google Chart api to draw chart. This is actually working as wrapper of google chart api. With this phpgc you can easily visualise your data into your web application.
 
-Installationhttps://github.com/sohelrana820/phpgc/edit/master/README.md#
+Installation
 ============
 Write ``` "sohelrana820/phpgc": "dev-master" ``` file in your composer.json file to install. If you want to manual install then download this repository and paste somewhere in yout project.
 
