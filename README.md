@@ -4,7 +4,7 @@ phpgc is the PHP wrapper class which provides a flexible way to build chart. php
 
 Installation
 ============
-Write ``` "sohelrana820/phpgc": "dev-master" ``` file in your composer.json file to install. If you want to manual install then download this repository and paste somewhere in yout project.
+Write ``` "sohelrana820/phpgc": "dev-master" ``` file in your composer.json file to install. If you want to manual install then download this repository and paste somewhere in your project.
 
 Usage
 =====
