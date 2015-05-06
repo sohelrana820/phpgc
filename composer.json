@@ -1,0 +1,21 @@
+{
+    "name": "sohelrana820/phpgc",
+    "description": "phpgc is the PHP wrapper class which provides a flexible way to build chart. phpgc is using Google Chart api to draw chart. This is actually working as wrapper of google chart api. With this phpgc you can easily visualise your data into your web application.",
+    "homepage": "http://sohelrana.me/phpgc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sohel Rana",
+            "email": "me.sohelrana@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+
+    },
+    "autoload": {
+        "psr-0": {
+            "src\\": ""
+        }
+    }
+}
