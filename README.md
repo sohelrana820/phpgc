@@ -65,5 +65,5 @@ echo $chart->pieChart($pieColumns, $pieRows, $pieOptions);
 
 ```
 
-Please [click here](http://sohelrana.me/phpgc) for see the full chart list.
+Please [click here](http://lib.sohelrana.me/phpgc) for see the full chart list.
 
